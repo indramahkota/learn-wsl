@@ -220,7 +220,9 @@
     /home/indra/.hushlogin file.
 
 **Penginstallan normal akan membuat user baru otomatis yang best
-practice.** `</br>`{=html} **Penginstallan dengan import distribution
+practice.** 
+
+**Penginstallan dengan import distribution
 tidak akan membuat user otomatis.**
 
 ## Set up a WSL development environment
